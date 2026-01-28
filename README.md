@@ -15,7 +15,11 @@
 <a href="https://linkedin.com/in/famalouiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="famalouiz" height="30" width="40" /></a>
 <a href="https://instagram.com/famawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="famawad" height="30" width="40" /></a>
 <a href="https://discord.gg/heatwavexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="heatwavexd" height="30" width="40" /></a>
+  
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=FamAShihata) @ [FamAShihata](https://codeforces.com/profile/FamAShihata)
 </p>
 <hr class="solid">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=famalouiz&theme=dark" alt="famalouiz" /></p>
+
+
 
